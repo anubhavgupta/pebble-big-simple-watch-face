@@ -1,0 +1,25 @@
+{
+    "author": "anubhav200@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "jsface",
+    "pebble": {
+        "displayName": "JSFace",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "4af23bd7-fe2a-4548-b82c-0e6721352beb",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
