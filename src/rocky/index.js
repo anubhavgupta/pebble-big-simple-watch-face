@@ -70,7 +70,7 @@ function addZero(num){
 }
 
 function drawTime(ctx, w, h, dateObj){
-    var hours = addZero((dateObj.getHours() % 12) || 12);
+    var hours = addZero(dateObj.getHours());
     var minutes = addZero(dateObj.getMinutes());
     ctx.fillText(hours+':'+minutes, w/2, (h/2 - textHeight)/2, w);
 }
