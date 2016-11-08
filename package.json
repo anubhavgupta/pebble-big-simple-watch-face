@@ -2,9 +2,9 @@
     "author": "anubhav200@gmail.com",
     "dependencies": {},
     "keywords": [],
-    "name": "jsface",
+    "name": "jsface-24",
     "pebble": {
-        "displayName": "JSFace",
+        "displayName": "JSFace-24",
         "enableMultiJS": true,
         "messageKeys": [],
         "projectType": "rocky",
