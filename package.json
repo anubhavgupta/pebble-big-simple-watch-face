@@ -14,12 +14,14 @@
         "sdkVersion": "3",
         "targetPlatforms": [
             "basalt",
-            "chalk"
+            "chalk",
+            "diorite",
+            "emery"
         ],
         "uuid": "a781fc80-8b98-4e28-959d-0309d0f1f5c9",
         "watchapp": {
             "watchface": true
         }
     },
-    "version": "1.0.0"
+    "version": "1.1.0"
 }
